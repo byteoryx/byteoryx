@@ -1,75 +1,88 @@
 # Hi, I'm Dmitrii 👋
 
-**AI Engineer at Lenta Online · LLMs, RAG & practical automation**
+**Senior AI Engineer at Lenta Online · LLMs, RAG & automation**
 
-[English](#about-me) · [Русский](#обо-мне) · [Telegram](https://t.me/dmitriin) · [LinkedIn](https://www.linkedin.com/in/dmitriinechkin/)
+[Telegram](https://t.me/dmitriin) · [LinkedIn](https://www.linkedin.com/in/dmitriinechkin/)
 
-## About me
+## 🧭 About me
 
-I work on bringing AI into business workflows, with a focus on LLM applications, RAG systems and internal knowledge assistants. My background in second-line technical support helps me connect technical solutions with the problems people face in their daily work.
+I bring AI into business workflows through LLM applications, RAG systems and internal knowledge assistants. My background in second-line technical support helps me connect technical solutions with the challenges support teams face every day.
 
-I also build Python utilities and automation tools for personal use and private clients. My interest in cryptocurrency and Web3 led me to projects involving blockchain interactions, crypto platforms and repetitive workflows.
+I'm also interested in cryptocurrency and Web3. I've built Python utilities and automation tools for personal use and private clients, covering blockchain and smart-contract interactions, crypto platforms and repetitive workflows.
 
-## What I'm working on
+## 🎯 Current focus
 
 - Integrating LLMs and RAG into corporate environments.
-- Building knowledge assistants and support workflows with OpenWebUI.
-- Preparing documentation for retrieval, including Markdown conversion and OCR.
-- Improving my Python, software development and deployment skills through practical projects.
+- Building knowledge assistants and support tools with OpenWebUI.
+- Preparing documentation for retrieval through Markdown conversion and OCR.
+- Developing my Python, software development and deployment skills through practical projects.
 
-## Selected work
+## 🛠️ Projects
 
-**AI assistant for L2 support — Lenta Online**  
-Built and configured an OpenWebUI-based assistant using internal documentation and support cases. My current focus is developing the solution further and bringing it into the team's workflows.
+### AI assistant for L2 support — Lenta Online
 
-**Confluence → Markdown + OCR**  
-Built a utility to export Confluence articles to Markdown and extract text from screenshots with OCR, preparing content for an OpenWebUI knowledge base.
+Built an MVP to help support engineers find internal instructions, look up previous solutions and troubleshoot issues using the team's knowledge base.
 
-**Private crypto automation — Hyperlane & Paradex**  
-Built custom Python utilities for private clients, supporting workflows involving Hyperlane and Paradex. These projects are part of my experience beyond the repositories published here.
+**Implemented**
 
-## How I build
+- **Assistant workspace:** configured OpenWebUI and connected DeepSeek as the LLM backend.
+- **Knowledge preparation:** brought together Confluence documentation and Jira support cases, using Markdown conversion and OCR to prepare content for retrieval.
+- **Search:** configured embeddings and hybrid search to retrieve relevant instructions and similar support cases.
+- **Text and screenshots:** enabled support questions that combine a written description with screenshots.
+- **Troubleshooting behavior:** refined system prompts for answers grounded in retrieved material, source references and handling missing information.
+- **Evaluation:** tested the assistant on real support scenarios, checking retrieval relevance, answer quality, source references and response times.
 
-I use AI coding assistants as part of my development workflow: I define the task, read and understand the code, work through implementation with AI, and test the result. I keep strengthening my own technical knowledge as I build.
+**MVP stack:** OpenWebUI · DeepSeek · Python · Confluence API · Markdown · OCR  
+**Retrieval:** RAG · Embeddings · Hybrid search  
+**Knowledge sources:** Confluence · Jira
 
-**Tools & topics:** Python · SQL · Linux / Ubuntu · OpenWebUI · LLMs · RAG · OCR · Confluence · Jira
+**Planned**
 
-My GitHub includes personal projects, experiments and work with existing open-source tools.
+- Direct integration with **HelpDeskEddy (HDE)** and **SimpleOne (S1)** to make the assistant available within the support ticket workflow.
+
+### Confluence → Markdown + OCR
+
+Built a Python utility to export Confluence articles to Markdown and extract text from screenshots with OCR, preparing materials for an OpenWebUI knowledge base.
+
+**Stack:** Python · Confluence API · Markdown · OCR
+
+### Private crypto automation
+
+Custom Python utilities for personal workflows and private clients, including projects involving Hyperlane and Paradex.
+
+- **Blockchains:** EVM-compatible chains, including L2 networks, and Solana.
+- **Applications:** cross-chain bridges, perpetual DEXs, NFT marketplaces and wallets.
+- **Automation:** utilities for batch operations and repetitive tasks across multiple wallets and exchanges, making routine work faster and more convenient.
+
+## 🤖 How I build
+
+I use AI coding assistants throughout development. I write detailed technical requirements, outline the architecture and stack, break the work into tasks, read and review the code, and iterate on the implementation with AI. I test the results and continue strengthening my own technical knowledge through hands-on projects.
+
+## 🧰 Tools & software
+
+Python · SQL · Linux · OpenWebUI · Docker
+
+<details>
+<summary>Explore my tools by category</summary>
+
+| Category | Tools |
+| --- | --- |
+| AI coding assistants | Codex · Claude Code · Cursor · Orca · Droid |
+| Editor | VS Code |
+| AI assistants & workspaces | Hermes · OpenWebUI · AnythingLLM |
+| APIs & testing | Postman · Swagger · Insomnia |
+| Notes & documentation | Obsidian · Notion · Confluence |
+| Issue tracking | Jira |
+| Databases | PostgreSQL · MySQL |
+| Monitoring & logs | Grafana · Loki · Kibana |
+| Kafka tools | Kowl · Conduktor |
+| Web server | Nginx |
+| Browser automation | Playwright |
+| Containers | Docker · Docker Compose |
+| Operating systems | Linux (Ubuntu, Debian) · Windows Server |
+
+</details>
 
 ---
 
-# Привет, я Дмитрий 👋
-
-**Инженер по искусственному интеллекту в Лента Онлайн · LLM, RAG и автоматизация**
-
-## Обо мне
-
-Занимаюсь внедрением AI в рабочие процессы: LLM-приложениями, RAG-системами и внутренними ассистентами на базе знаний. Ранее работал во второй линии технической поддержки. Этот опыт помогает связывать технические решения с задачами, с которыми люди сталкиваются в повседневной работе.
-
-Также создаю утилиты и инструменты автоматизации на Python для себя и частных заказчиков. Интересуюсь криптовалютами и Web3: работал над задачами взаимодействия с блокчейнами, криптоплатформами и автоматизации повторяющихся действий.
-
-## Над чем работаю сейчас
-
-- Интеграция LLM и RAG в корпоративную среду.
-- Ассистенты на базе знаний и инструменты поддержки на OpenWebUI.
-- Подготовка документации для поиска: преобразование в Markdown и OCR.
-- Развитие навыков Python, разработки и развёртывания решений на практических проектах.
-
-## Избранные проекты
-
-**AI-ассистент для второй линии поддержки — Лента Онлайн**  
-Собрал и настроил ассистента на OpenWebUI с использованием внутренних инструкций и кейсов поддержки. Сейчас развиваю решение и работаю над его внедрением в процессы команды.
-
-**Confluence → Markdown + OCR**  
-Создал утилиту для выгрузки статей Confluence в Markdown и распознавания текста на скриншотах с помощью OCR. Она помогает готовить материалы для базы знаний OpenWebUI.
-
-**Частные проекты по автоматизации — Hyperlane и Paradex**  
-Создавал Python-утилиты под задачи частных заказчиков, связанные с Hyperlane и Paradex. Эти проекты дополняют опыт, представленный в публичных репозиториях.
-
-## Как я разрабатываю
-
-Использую AI-ассистентов в разработке: формулирую задачу, читаю и разбираю код, прорабатываю реализацию вместе с AI и проверяю результат. Параллельно углубляю собственные технические знания.
-
-**Инструменты и направления:** Python · SQL · Linux / Ubuntu · OpenWebUI · LLM · RAG · OCR · Confluence · Jira
-
-В моём GitHub есть собственные проекты, эксперименты и работа с существующими открытыми инструментами.
+My GitHub includes my own projects, experiments and adaptations of existing open-source tools.
