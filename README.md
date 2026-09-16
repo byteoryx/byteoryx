@@ -60,11 +60,6 @@ I use AI coding assistants throughout development. I write detailed technical re
 
 ## 🛠️ Tools & software
 
-Python · SQL · Linux · OpenWebUI · Docker
-
-<details>
-<summary>Explore my tools by category</summary>
-
 | Category | Tools |
 | --- | --- |
 | AI coding assistants | Codex · Claude Code · Cursor · Orca · Droid |
@@ -80,8 +75,6 @@ Python · SQL · Linux · OpenWebUI · Docker
 | Browser automation | Playwright |
 | Containers | Docker · Docker Compose |
 | Operating systems | Linux (Ubuntu, Debian) · Windows Server |
-
-</details>
 
 ---
 
