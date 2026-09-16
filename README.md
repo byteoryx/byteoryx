@@ -4,20 +4,20 @@
 
 [Telegram](https://t.me/dmitriin) · [LinkedIn](https://www.linkedin.com/in/dmitriinechkin/)
 
-## 🧭 About me
+## About me
 
 I bring AI into business workflows through LLM applications, RAG systems and internal knowledge assistants. My background in second-line technical support helps me connect technical solutions with the challenges support teams face every day.
 
 I'm also interested in cryptocurrency and Web3. I've built Python utilities and automation tools for personal use and private clients, covering blockchain and smart-contract interactions, crypto platforms and repetitive workflows.
 
-## 🎯 Current focus
+## Current focus
 
 - Integrating LLMs and RAG into corporate environments.
 - Building knowledge assistants and support tools with OpenWebUI.
 - Preparing documentation for retrieval through Markdown conversion and OCR.
 - Developing my Python, software development and deployment skills through practical projects.
 
-## 🛠️ Projects
+## Projects
 
 ### AI assistant for L2 support — Lenta Online
 
@@ -54,11 +54,11 @@ Custom Python utilities for personal workflows and private clients, including pr
 - **Applications:** cross-chain bridges, perpetual DEXs, NFT marketplaces and wallets.
 - **Automation:** utilities for batch operations and repetitive tasks across multiple wallets and exchanges, making routine work faster and more convenient.
 
-## 🤖 How I build
+## How I build
 
 I use AI coding assistants throughout development. I write detailed technical requirements, outline the architecture and stack, break the work into tasks, read and review the code, and iterate on the implementation with AI. I test the results and continue strengthening my own technical knowledge through hands-on projects.
 
-## 🧰 Tools & software
+## 🛠️ Tools & software
 
 Python · SQL · Linux · OpenWebUI · Docker
 
