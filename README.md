@@ -2,7 +2,7 @@
 
 **AI Engineer at Lenta Online · LLMs, RAG & practical automation**
 
-[English](#about-me) · [Русский](#обо-мне) · [LinkedIn](https://www.linkedin.com/in/dmitriinechkin/)
+[English](#about-me) · [Русский](#обо-мне) · [Telegram]([#обо-мне](https://t.me/dmitriin) · [LinkedIn](https://www.linkedin.com/in/dmitriinechkin/)
 
 ## About me
 
@@ -73,5 +73,3 @@ My GitHub includes personal projects, experiments and work with existing open-so
 **Инструменты и направления:** Python · SQL · Linux / Ubuntu · OpenWebUI · LLM · RAG · OCR · Confluence · Jira
 
 В моём GitHub есть собственные проекты, эксперименты и работа с существующими открытыми инструментами.
-
-**Связаться:** [LinkedIn](https://www.linkedin.com/in/dmitriinechkin/)
