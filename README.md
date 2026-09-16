@@ -2,7 +2,7 @@
 
 **AI Engineer at Lenta Online · LLMs, RAG & practical automation**
 
-[English](#about-me) · [Русский](#обо-мне) · [Telegram]([#обо-мне](https://t.me/dmitriin) · [LinkedIn](https://www.linkedin.com/in/dmitriinechkin/)
+[English](#about-me) · [Русский](#обо-мне) · [Telegram](https://t.me/dmitriin) · [LinkedIn](https://www.linkedin.com/in/dmitriinechkin/)
 
 ## About me
 
